@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveFiles", "MoveFiles\MoveFiles.csproj", "{B6F9075F-3B81-4B88-8276-6D432CE6493B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6F9075F-3B81-4B88-8276-6D432CE6493B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F9075F-3B81-4B88-8276-6D432CE6493B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F9075F-3B81-4B88-8276-6D432CE6493B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F9075F-3B81-4B88-8276-6D432CE6493B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA01F901-84F2-495B-9E38-D433146952E2}
+	EndGlobalSection
+EndGlobal

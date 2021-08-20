@@ -1,0 +1,15 @@
+C:\Users\Yanxi.lin\Desktop\MoveFiles\MoveFiles\bin\Debug\netcoreapp3.1\MoveFiles.exe
+C:\Users\Yanxi.lin\Desktop\MoveFiles\MoveFiles\bin\Debug\netcoreapp3.1\MoveFiles.deps.json
+C:\Users\Yanxi.lin\Desktop\MoveFiles\MoveFiles\bin\Debug\netcoreapp3.1\MoveFiles.runtimeconfig.json
+C:\Users\Yanxi.lin\Desktop\MoveFiles\MoveFiles\bin\Debug\netcoreapp3.1\MoveFiles.runtimeconfig.dev.json
+C:\Users\Yanxi.lin\Desktop\MoveFiles\MoveFiles\bin\Debug\netcoreapp3.1\MoveFiles.dll
+C:\Users\Yanxi.lin\Desktop\MoveFiles\MoveFiles\bin\Debug\netcoreapp3.1\MoveFiles.pdb
+C:\Users\Yanxi.lin\Desktop\MoveFiles\MoveFiles\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Yanxi.lin\Desktop\MoveFiles\MoveFiles\obj\Debug\netcoreapp3.1\MoveFiles.csprojAssemblyReference.cache
+C:\Users\Yanxi.lin\Desktop\MoveFiles\MoveFiles\obj\Debug\netcoreapp3.1\MoveFiles.AssemblyInfoInputs.cache
+C:\Users\Yanxi.lin\Desktop\MoveFiles\MoveFiles\obj\Debug\netcoreapp3.1\MoveFiles.AssemblyInfo.cs
+C:\Users\Yanxi.lin\Desktop\MoveFiles\MoveFiles\obj\Debug\netcoreapp3.1\MoveFiles.csproj.CoreCompileInputs.cache
+C:\Users\Yanxi.lin\Desktop\MoveFiles\MoveFiles\obj\Debug\netcoreapp3.1\MoveFiles.csproj.CopyComplete
+C:\Users\Yanxi.lin\Desktop\MoveFiles\MoveFiles\obj\Debug\netcoreapp3.1\MoveFiles.dll
+C:\Users\Yanxi.lin\Desktop\MoveFiles\MoveFiles\obj\Debug\netcoreapp3.1\MoveFiles.pdb
+C:\Users\Yanxi.lin\Desktop\MoveFiles\MoveFiles\obj\Debug\netcoreapp3.1\MoveFiles.genruntimeconfig.cache
